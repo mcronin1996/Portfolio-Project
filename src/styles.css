@@ -13,7 +13,6 @@ h2 {
 p {
   font-family: "Poppins", sans-serif;
   font-weight: normal;
-  font-size: 36px;
 }
 
 .btn-branding {
@@ -29,4 +28,14 @@ p {
   text-align: center;
   padding: 80px 20px;
   background-color: #f9f7fe;
+}
+
+.hero p {
+  font-size: 36px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.project-desciption {
+  padding: 120px 60px;
 }
