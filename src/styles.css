@@ -17,7 +17,9 @@ p {
 body {
   background: #d6e5e3;
 }
-
+footer {
+  background: #d6e5e3;
+}
 .btn-primary {
   background: #d6e5e3;
   color: #1c0b19;
@@ -74,4 +76,7 @@ body {
 .content {
   text-align: center;
   margin-top: 75px;
+}
+.icon-size {
+  font-size: 30px;
 }
